@@ -1,0 +1,9 @@
+export const INITIALIZED = 'INITIALIZED';
+export const SET_REGION = 'SET_REGION';
+export const UPDATE_USER = 'UPDATE_USER';
+export const NETWORK_CHANGED = 'NETWORK_CHANGED';
+export const FIRST_LOAD = 'FIRST_LOAD';
+export const NEW_VERSION = 'NEW_VERSION';
+export const SET_LOCATION = 'SET_LOCATION';
+export const SET_ROOT_ACTION = 'SET_ROOT_ACTION';
+export const SET_TOKEN = 'SET_TOKEN';
